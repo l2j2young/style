@@ -1,7 +1,7 @@
 **개요**  
 서비스 명: 스타일 추천  
 서비스 설명: 사용자로부터 이름, 나이, 성별, 원하는 스타일을 입력받으면 스타일 추천 ai가 원하는 최고의 스타일을 추천해준다.  
-서비스 접속 주소: https://l2j2young.github.io/l2j2young-style  
+서비스 접속 주소: https://l2j2young.github.io/style  
 
 **서비스 구성 요소(1) -Gemini API**  
 구글의 LMM 모델 Gemini API를 활용해 생성한다.  
